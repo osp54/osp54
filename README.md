@@ -1,2 +1,2 @@
-![Github stats](https://osp54-github.vercel.app/api?username=osp54&theme=transparent&show_icons=true&count_private=true)
-![Top Langs](https://osp54-github.vercel.app/api/top-langs/?username=osp54&theme=transparent&layout=compact)
+| <a href="https://github.com/osp54"><img align="center" src="https://github-readme-stats.vercel.app/api?username=osp54&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="osp54's GitHub stats" /></a> | <a href="https://github.com/osp54"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osp54&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
